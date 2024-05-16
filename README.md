@@ -53,7 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Yuvi-070/Yuvi-070/output/snake.svg" alt="Snake animation" />
 
 ###
 
