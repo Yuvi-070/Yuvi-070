@@ -1,4 +1,4 @@
-<body>
+
 <p align="left">⚡Hi there, I'm Yuvraj Tale 👋<br><br>📫Reach Me At:</p>
 
 ###
@@ -66,5 +66,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Yuvi-070/count.svg?"  />
 </div>
-</body>
+
 ###
