@@ -62,8 +62,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvi-070&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yuvi-070&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvi-070&label=Profile%20views&color=0e75b6&style=flat" alt="yuvi-070" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvi-070" alt="yuvi-070" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvi-070&show_icons=true&locale=en&layout=compact" alt="yuvi-070" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvi-070&show_icons=true&locale=en" alt="yuvi-070" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvi-070&" alt="yuvi-070" /></p>
 </div>
 
 ###
