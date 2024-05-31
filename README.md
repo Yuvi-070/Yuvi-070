@@ -1,5 +1,6 @@
 
-<p align="left">⚡Hi there, I'm Yuvraj Tale 👋<br><br>📫Reach Me At:</p>
+<h4 align="left">⚡Hi there, I'm Yuvraj Tale 👋</h4>
+<h4 align="left">Connect with me:</h4>
 
 ###
 
@@ -26,7 +27,7 @@
 
 ###
 
-<p align="left">🔧 My Skill Set</p>
+<h4 align="left">🔧 My Skill Set</h4>
 
 ###
 
@@ -55,27 +56,17 @@
 ###
 
 
-###
 
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvi-070&theme=dracula&" alt="yuvi-070" /></a> </p>
 
-###
 
-<div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvi-070&label=Profile%20views&color=0e75b6&style=flat" alt="yuvi-070" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvi-070&show_icons=true&locale=en&layout=compact&theme=dracula&" alt="yuvi-070" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvi-070" alt="yuvi-070" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvi-070&show_icons=true&locale=en&theme=dracula&" alt="yuvi-070" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvi-070&theme=dracula&" alt="yuvi-070" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvi-070&show_icons=true&locale=en&layout=compact" alt="yuvi-070" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvi-070&show_icons=true&locale=en" alt="yuvi-070" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvi-070&" alt="yuvi-070" /></p>
-</div>
 
 ###
 
