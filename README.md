@@ -64,7 +64,7 @@
 
 
 
-<div align="center"> Total Profile Visits
+<div align="center"> <h1>Total Profile Visits</h1>
   <img src="https://profile-counter.glitch.me/Yuvi-070/count.svg?"  />
 </div>
 
