@@ -49,6 +49,165 @@
 
 <br/>
 
+<!-- ═══════════════════════  SUMMARY  ═══════════════════════ -->
+<h2 align="center">🚀 About Me</h2>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=7B2FBE&center=true&vCenter=true&multiline=true&repeat=false&width=400&height=100&lines=💡+Passionate+Full-Stack+Developer;🌐+Building+scalable+web+applications;🔭+Open-source+contributor+%26+learner" alt="about me" />
+      </td>
+      <td align="left" width="50%">
+
+```
+⚡ Add your personal summary here
+🌍 Location: Add your location
+🎯 Currently working on: Add your current projects
+📚 Learning: Add what you're learning
+🤝 Open to: Collaborations & opportunities
+📬 Reach me at: yuvrajtale03@gmail.com
+```
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════  WORK EXPERIENCE  ═══════════════════════ -->
+<h2 align="center">💼 Work Experience</h2>
+
+<div align="center">
+
+| 🏢 Company | 💼 Role | 📅 Duration | 📍 Location |
+|:---:|:---:|:---:|:---:|
+| **Add Company Name** | Add Your Role | Add Duration | Add Location |
+| **Add Company Name** | Add Your Role | Add Duration | Add Location |
+| **Add Company Name** | Add Your Role | Add Duration | Add Location |
+
+</div>
+
+<details>
+<summary><b>🔍 Click to expand experience details</b></summary>
+
+<br/>
+
+**🏢 Company Name** &nbsp;|&nbsp; *Role Title* &nbsp;|&nbsp; `Month YYYY – Month YYYY`
+
+> - 📌 Add a key responsibility or achievement here
+> - 📌 Add another key responsibility or achievement here
+> - 📌 Add technologies used: `Tech1` `Tech2` `Tech3`
+
+---
+
+**🏢 Company Name** &nbsp;|&nbsp; *Role Title* &nbsp;|&nbsp; `Month YYYY – Month YYYY`
+
+> - 📌 Add a key responsibility or achievement here
+> - 📌 Add another key responsibility or achievement here
+> - 📌 Add technologies used: `Tech1` `Tech2` `Tech3`
+
+</details>
+
+<br/>
+
+<!-- ═══════════════════════  EDUCATION  ═══════════════════════ -->
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+
+| 🏛️ Institution | 📜 Degree | 📅 Year | 🎯 Score |
+|:---:|:---:|:---:|:---:|
+| **Add Your University / College** | Add Your Degree | Add Year | Add CGPA / % |
+| **Add Your School** | Add Your Board | Add Year | Add Score |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
+<h2 align="center">🛸 Featured Projects</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🔭 Project One</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-7B2FBE?style=for-the-badge" alt="Live Demo"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+          </a>
+        </p>
+        <p align="center"><em>Add a short description of Project One here. What problem does it solve? What makes it special?</em></p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🚀 Project Two</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-7B2FBE?style=for-the-badge" alt="Live Demo"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+          </a>
+        </p>
+        <p align="center"><em>Add a short description of Project Two here. What problem does it solve? What makes it special?</em></p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">⚙️ Project Three</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-7B2FBE?style=for-the-badge" alt="Live Demo"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+          </a>
+        </p>
+        <p align="center"><em>Add a short description of Project Three here. What problem does it solve? What makes it special?</em></p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🌐 Project Four</h3>
+        <p align="center">
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/🔗_Live_Demo-7B2FBE?style=for-the-badge" alt="Live Demo"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/📁_Source_Code-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+          </a>
+        </p>
+        <p align="center"><em>Add a short description of Project Four here. What problem does it solve? What makes it special?</em></p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 <!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
 
@@ -88,12 +247,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvi-070&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Yuvraj's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvi-070&show_icons=true&theme=tokyonight&hide_border=true" alt="Yuvraj's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvi-070&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvi-070&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yuvi-070&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
