@@ -84,7 +84,7 @@
 
 | 🏢 Company | 💼 Role | 📅 Duration | 📍 Location |
 |:---:|:---:|:---:|:---:|
-| **Quantumflux technology private limited** | React Developer (Intern) | Dec 2024 – Mar 2025 | Pune |
+| **Quantumflux technology private limited** | React Developer (Intern) | Dec 2024 – May 2025 | Pune |
 | **Datagami** | Front-end Developer (Intern) | May 2024 – July 2024 | Mumbai |
 
 </div>
